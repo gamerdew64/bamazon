@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "I will be experimenting with MySQL and Node JS to create an app that will take in orders from customers and deplete stock from the store's inventory. As a bonus task, I will try to program the app to track product sales across the store's departments and then provide a summary of the highest-grossing departments in the store.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamerdew64/bamazon.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gamerdew64/bamazon/issues"
+  },
+  "homepage": "https://github.com/gamerdew64/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0",
+    "require": "^2.4.20",
+    "table": "^4.0.3"
+  }
+}
