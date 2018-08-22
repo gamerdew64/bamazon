@@ -12,3 +12,5 @@ This app utilizes the following NPM packages for data input and storage:
 **Inquirer**
 
 Please see the following video to see how the application works. It will show how a typical user flows through the application (this is helpful for the customer and/or the relevant manager/supervisor). This includes views of the prompts and the responses after their selection (for the different selection options).
+
+https://drive.google.com/drive/folders/1I35Ci7AYbWrcbv5AW9WpIWl8yVH7iZ-a
